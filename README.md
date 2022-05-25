@@ -8,6 +8,12 @@
 - Transfer of funds should be allowed between accounts owned by the same user, as well as between accounts owned by different users. 
 - Standard Users should be able to upgrade to Premium (the cost of such an upgrade may be freely determined). With this premium status, Users should now also be able to open new joint accounts (accounts with multiple owners), as well as be able to add users to pre-existing accounts.
 
+## Tech Stack
+- Java
+- Servlets
+- JDBC & Postgres
+- Postman or `curl` for testing end points
+
 ## Models
 The below models are an outline that supports the required features. They can be expanded or modified as needed.
 
