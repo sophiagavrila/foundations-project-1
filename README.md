@@ -1,4 +1,6 @@
 # Banking API
+*Credit to Matt Oberlies & Andrew Crenwelge for initially proposing this back in ROC*
+
 - The Banking API will manage the bank accounts of its users. It will be managed by the Bank's employees and admins. 
 - Employees and Admins count as Premium Users with additional abilities. Employees can view all customer information, but not modify in any way. 
 - Admins can both view all user information, as well as directly modify it. Standard users should be able to register and login to see their account information. 
